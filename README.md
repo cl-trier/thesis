@@ -9,8 +9,8 @@ at the Department of Computational Linguistics, Trier University.
 
 | File | Description |
 |------|-------------|
-| `declaration-de.pdf` | Declaration of authorship (German) |
-| `declaration-en.pdf` | Declaration of authorship (English) |
+| `Eigenständigkeitserklärung.pdf` | Declaration of authorship (German) |
+| `Eigenständigkeitserklärung_Englisch.pdf` | Declaration of authorship (English) |
 
 ---
 
