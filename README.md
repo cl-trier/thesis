@@ -9,8 +9,9 @@ at the Department of Computational Linguistics, Trier University.
 
 | File | Description |
 |------|-------------|
-| `Eigenständigkeitserklärung.pdf` | Declaration of authorship (German) |
-| `Eigenständigkeitserklärung_Englisch.pdf` | Declaration of authorship (English) |
+| `./thesis/CL-Proposal-Template.pdf` | Proposal form to present your thesis idea to your supervisor |
+| `./thesis/Eigenständigkeitserklärung.pdf` | Declaration of authorship (German) |
+| `./thesis/Eigenständigkeitserklärung_Englisch.pdf` | Declaration of authorship (English) |
 
 ---
 
