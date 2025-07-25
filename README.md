@@ -10,8 +10,8 @@ at the Department of Computational Linguistics, Trier University.
 | File | Description |
 |------|-------------|
 | `./CL-Proposal-Template.pdf` | Proposal form to present your thesis idea to your supervisor |
-| `./Eigenständigkeitserklärung.pdf` | Declaration of authorship (German) |
-| `./Eigenständigkeitserklärung_Englisch.pdf` | Declaration of authorship (English) |
+| `./Eigenstaendigkeitserklaerung.pdf` | Declaration of authorship (German) |
+| `./Eigenstaendigkeitserklaerung_Englisch.pdf` | Declaration of authorship (English) |
 
 ---
 
@@ -36,10 +36,10 @@ at the Department of Computational Linguistics, Trier University.
 
 A signed declaration is mandatory for thesis submission.
 
-- [declaration-de.pdf](./declaration-de.pdf) – German version
-- [declaration-en.pdf](./declaration-en.pdf) – English version
+- [Eigenständigkeitserklärung.pdf](./Eigenständigkeitserklärung.pdf) – German version
+- [Eigenständigkeitserklärung_Englisch.pdf](./Eigenständigkeitserklärung_Englisch.pdf) – English version
 
-Please include the signed version in the appendix of your thesis.
+Please include the signed version in your thesis.
 
 ---
 
