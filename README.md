@@ -10,7 +10,7 @@ at the Department of Computational Linguistics, Trier University.
 | File | Description |
 |------|-------------|
 | `./CL-Proposal-Template.pdf` | Proposal form to present your thesis idea to your supervisor |
-| `./Eigenstaendigkeitserklaerung.pdf` | Declaration of authorship (German) |
+| `./thesis/Eigenstaendigkeitserklaerung.pdf` | Declaration of authorship (German) |
 | `./Eigenstaendigkeitserklaerung_Englisch.pdf` | Declaration of authorship (English) |
 
 ---
