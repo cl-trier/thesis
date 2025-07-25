@@ -9,26 +9,10 @@ at the Department of Computational Linguistics, Trier University.
 
 | File | Description |
 |------|-------------|
+| [CL-Guideline-Thesis.pdf](CL-Guideline-Thesis.pdf) | Guideline to writing your thesis |
 | [CL-Proposal-Template.pdf](CL-Proposal-Template.pdf) | Proposal form to present your thesis idea to your supervisor |
 | [Eigenstaendigkeitserklaerung.pdf](Eigenstaendigkeitserklaerung.pdf) | Declaration of authorship (German) |
 | [Eigenstaendigkeitserklaerung_Englisch.pdf](Eigenstaendigkeitserklaerung_Englisch.pdf) | Declaration of authorship (English) |
-
----
-
-## 🚀 How to Use
-
-1. Download the repository:
-   - Either [as ZIP](https://github.com/cl-trier/template-thesis/archive/refs/heads/main.zip)
-   - Or via Git:  
-     ```
-     git clone https://github.com/cl-trier/template-thesis.git
-     ```
-
-2. Open the `thesis-template.tex` file in your LaTeX editor (e.g., Overleaf, TeXstudio).
-
-3. Edit title, name, advisor, etc. and start writing!
-
-> 📌 For formatting rules and content structure, refer to `guideline-thesis.pdf`.
 
 ---
 
