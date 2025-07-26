@@ -1,3 +1,4 @@
+<!-- TO DO: Guideline vervollständigen, ggf Namensgebung vereinheitlichen -->
 # 🎓 Thesis – Computational Linguistics Trier
 
 This repository contains a guideline and template for Bachelor’s and Master’s theses  
