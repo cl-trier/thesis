@@ -19,6 +19,17 @@ at the Department of Computational Linguistics, Trier University.
 
 ---
 
+## 📐 Length
+
+The following length requirements apply to theses:
+
+- Bachelor thesis: 30 +/- 15 pages
+- Master thesis: 60 +/- 30 pages
+
+Please note that the individual length of your thesis must always be agreed with the supervisor(s).
+
+---
+
 ## 📄 Declarations of Authorship
 
 A signed declaration is mandatory for thesis submission.
