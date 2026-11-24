@@ -10,6 +10,7 @@ at the Department of Computational Linguistics, Trier University.
 
 | File | Description |
 |------|-------------|
+| [NLP-Thesis-Cheatsheet_26_11.pdf](NLP-Thesis-Cheatsheet_26_11.pdf) |Thesis Cheatsheet |
 | [CL-Guideline-Thesis.pdf](CL-Guideline-Thesis.pdf) | Guideline to writing your thesis |
 | [CL-Proposal-Template.pdf](CL-Proposal-Template.pdf) | Proposal form to present your thesis idea to your supervisor |
 | [CL_Template_Thesis.zip](CL_Template_Thesis.zip) | tex-Template for writing your thesis |
